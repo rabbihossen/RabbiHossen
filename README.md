@@ -1,8 +1,7 @@
 # Assalamu Alaikum, I'm Rabbi Hossen! 👋
 
-![Rabbi's github stats](https://github-readme-stats.vercel.app/api?username=rabbihossen&show_icons=true&theme=react)
+![Rabbi's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=rabbihossen&show_icons=true&theme=react)
 ## 🚀 About Me
-
 
 
 ## 🔗 Links
