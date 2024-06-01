@@ -14,3 +14,9 @@
 
 ## 🛠 Skills
 Flutter, React Native, Dart, Firebase
+
+## PROJECTS
+[![QRPAY](https://previews.customer.envatousercontent.com/files/454339340/Thumbnail.png)](https://codecanyon.net/item/qrpay-money-transfer-with-qr-code-full-solution/46376528?s_rank=26)
+[![XremitPro](https://previews.customer.envatousercontent.com/files/466330308/Thumbnail.png)](https://codecanyon.net/item/xremit-pro-remittance-money-transfer-solution/48035206?s_rank=14)
+
+
