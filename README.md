@@ -1,21 +1,30 @@
-# Assalamu Alaikum, I'm Rabbi Hossen! 👋
+## Assalamu Alaikum! I'm Rabbi Hossen 👋
 
-## SUMMARY
-Experienced Software Developer with 3 years of experience in building and deploying cross-platform mobile applications using Flutter for iOS and Android. Proficient in Dart, GetX, Supabase, Pusher, and Firebase RESTful APIs and user-friendly, UI/UX-aligned interfaces. Experienced through  the entire development 
-cycle, from idea to App Store and Google Play deployment, in bringing efficient, maintainable code and responsive applications that foster engagement and satisfaction
+### SUMMARY
+Experienced Software Developer with over 3 years in mobile app development, specializing in cross-platform applications for iOS and Android using Flutter. Skilled in architecting and deploying user-centered, high-performance apps with seamless UI/UX and engaging interactions. Proficient in Dart, GetX, Supabase, and Firebase, managing the complete app lifecycle from concept to App Store and Google Play deployment. Adept at writing clean, maintainable code with a focus on delivering efficient, responsive applications that delight users and drive engagement.
 
-## SKILLS
+---
+
+### SKILLS
+
 #### Languages & Frameworks
-Dart, Kotlin, JavaScript, JSON, Shell scripting, Python, Flutter, Django Rest Framework
-#### Flutter
-GetX, Provider, Riverpod, SQLite, Getstorage, SharedPreferences, Firebase Firestore, Firebase Realtime Database, Supabase, Google Maps API, Social Login, Push Notifications, Pusher beams, Deep Link, Flutter DevTools, Google Play Store and Apple App Store Deployment
-#### Tools & Software
-Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Cursor, Figma, Trello, Slack, ClickUp, Hubstaff
+- **Languages**: Dart, Kotlin, JavaScript, Python, JSON, Shell scripting
+- **Frameworks**: Flutter, Django Rest Framework
 
+#### Flutter Development
+- **State Management**: GetX, Provider, Riverpod
+- **Local & Remote Storage**: SQLite, GetStorage, SharedPreferences, Firebase Firestore, Firebase Realtime Database, Supabase
+- **Integrations**: Google Maps API, Social Login, Push Notifications, Pusher Beams, Deep Link
+- **Tools**: Flutter DevTools, Android & iOS Deployment, Firebase REST APIs
+
+#### Tools & Software
+Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, Trello, Slack, ClickUp, Hubstaff
+
+---
 ## Links
-[![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)]()
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://rabbihossen.medium.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabbihossen)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rabbihossen.com/)
 
 ## PROJECTS
 
